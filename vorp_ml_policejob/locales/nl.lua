@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['nl'] = {
     ['titulo'] = 'Politie',
     ['subtitulo'] = 'Politie Menu',
     ['sub_menu_1'] = 'Politie paard',
